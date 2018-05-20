@@ -11,4 +11,4 @@ Distributed System - News System Project (Sockets, RMI, JDBC, Database)
 
 #### - PowerShell Terminal for an admin command for applying the RMI function. 
 
-#### - NewsAPI
+#### - NewsAPI.
